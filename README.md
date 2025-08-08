@@ -30,4 +30,3 @@ Sistema de delivery desenvolvido com Spring Boot e Java 21.
 - Porta: 8080
 - Banco: H2 em memória
 - Profile: development
-<img width="711" height="1076" alt="image" src="https://github.com/user-attachments/assets/af8134f3-e9f2-4df7-918e-1cfe35938cbb" />
